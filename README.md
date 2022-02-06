@@ -1,1 +1,1 @@
-# sharero-backend
+# study-fastapi
